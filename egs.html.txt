@@ -1,0 +1,31 @@
+<html>
+<title>
+css
+</title>
+<body background="pic.jpeg" bgcolor="lightpink">
+<center><legend>
+<font face="algerian" size="48" color="white">
+<b>WELCOME...</b>
+</font>
+</legend></center>
+<b><i><p><font face="comic sans" size="32" color="white">HELLO!!!,I am Jyoshil Chandana and I  am a fresher in Vellore Institute of Technology,Amaravathi.I am perceiving my BTech in Computer Science.</font></p></i></b>
+
+<font face="algerian" size="32" color="Black">ABOUT:</font>
+<b><i><p><font face="comic sans" size="32" color="white">My native is Vijayawada,Andhra Pradesh.I completed my schooloing in Sri Krishnaveni talent school,Vijayawada.
+</font></p></i></b>
+
+<font face="algerian" size="32" color="lightpink">SKILLS:</font>
+<b><i><p><font face="comic sans" size="32" color="white">Problem solving<br>
+Management<br>
+Communication skills<br>
+Leadership.</font></p></i></b>
+
+<font face="algerian" size="32" color="lightpink">HOBBIES:</font>
+<b><i><p><font face="comic sans" size="32" color="white">Watching football<br>Playing badminton<br>Skating</font></p></i></b>
+
+<font face="algerian" size="32" color="lightpink">CONTACT:</font>
+<b><i><p><font face="comic sans" size="32" color="white">9110766779<br>srijayant.21bce8917@vitapstudent.ac.in.</font></p></i></b>
+<center>
+<h1><font face="algerian" size="32" color="lightpink">THANK YOU :)</font></h1></center>
+</body>
+</html>
