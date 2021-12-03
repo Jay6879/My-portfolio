@@ -2,7 +2,7 @@
 <title>
 css
 </title>
-<body background="pic.jpeg" bgcolor="lightpink">
+<body background="pic.jpeg" bgcolor="black">
 <center><legend>
 <font face="algerian" size="48" color="white">
 <b>WELCOME...</b>
